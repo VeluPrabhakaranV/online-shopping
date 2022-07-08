@@ -1,4 +1,4 @@
-#python big
+#This is a python pgm
 a=input()
 b=input()
 if a>b:
